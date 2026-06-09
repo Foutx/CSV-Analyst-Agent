@@ -50,3 +50,5 @@ python main.py
 - [LangGraph](https://github.com/langchain-ai/langgraph) — ReAct агент с памятью
 - [LangChain](https://github.com/langchain-ai/langchain) — инструменты и интеграции
 - [Pandas](https://pandas.pydata.org/) — обработка данных
+
+## Created by Foutx
