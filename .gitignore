@@ -1,0 +1,8 @@
+.env
+memory.db*
+__pycache__/
+screens/
+outputs/
+result.py
+dashboard.html
+*.csv
